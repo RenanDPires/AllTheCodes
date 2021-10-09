@@ -1,0 +1,5 @@
+git status # Verifica se há algum arquivo novo
+git add . # Adiciona arquivos novos no controle de versão local
+git add -A # Adiciona arquivos novos no controle de versão local
+git commit -m "comentário do commit aqui" # adiciona comentário ao commit local
+git push origin main # Envia nosso commit, até então armazenado localmente, para o servidor remoto
