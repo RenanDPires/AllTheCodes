@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - Flex COntainer</title>
+    <style>
+        .flex-container{
+            display: flex;
+            background-color: lightsteelblue;
+            border: 2px solid blueviolet;
+            max-width: 100%;
+        }
+        .default{
+            flex-flow: row wrap;
+        }
+        .item{
+            background-color: lightsalmon;
+            margin: 5px;
+            color: black;
+            text-align: center;
+            width: 50px;
+            height: 50px;
+            line-height: 20px;
+        }
+        .fundo{
+            background-color: lightpink;
+        }
+        .titulo{
+            background-color: lightgray;
+            font-size: 100px;
+            width: 100%;
+            text-align: center;
+        }
+    </style>
+</head>
+<body class="fundo">
+    <h1 class="titulo">Wrap</h1>
+    <div class="flex-container default">
+        <div class="item"> Item 1</div>
+        <div class="item"> Item 2</div>
+        <div class="item"> Item 3</div>
+        <div class="item"> Item 4</div>
+        <div class="item"> Item 5</div>
+        <div class="item"> Item 6</div>
+        <div class="item"> Item 7</div>
+        <div class="item"> Item 8</div>
+        <div class="item"> Item 9</div>
+</body>
+</html>
