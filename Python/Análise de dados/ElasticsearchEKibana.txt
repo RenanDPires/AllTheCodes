@@ -1,0 +1,12 @@
+Iniciar servidor Elasticsearch
+No CMD
+cd C:\Users\DUARTE\Documents\elasticsearch-7.16.2
+bin\elasticsearch.bat
+
+http://localhost:9200
+
+Noutro CMD
+cd C:\Users\DUARTE\Documents\kibana-7.16.2
+bin\kibana.bat
+
+http://localhost:5601
