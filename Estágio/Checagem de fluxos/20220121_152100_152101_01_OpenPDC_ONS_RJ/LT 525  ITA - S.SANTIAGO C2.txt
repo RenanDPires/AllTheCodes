@@ -1,0 +1,10 @@
+Terminal: LT 525  ITA - S.SANTIAGO C2
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    311839.800000       152.940200    312225.000000        32.803330    310681.800000       -87.252500      1092.217000       -22.504570      1086.039000      -142.247300      1081.798000        97.232710        60.006950         0.002518
+1642778461.0000    311708.000000       155.455100    312170.400000        35.304220    310499.400000       -84.759960      1091.011000       -20.082140      1085.071000      -139.759000      1081.531000        99.652190        60.006960        -0.019455

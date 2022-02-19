@@ -1,0 +1,10 @@
+Terminal: LT 230  SAMUEL - ARIQUEMES C1
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    301481.500000      -110.042400    302697.500000       129.901000    302403.500000         9.662614       358.066800       -75.618200       345.430000       163.329900       347.381200        45.054340        60.007440         0.006409
+1642778461.0000    301283.300000      -107.285000    302530.300000       132.659900    302245.900000        12.414390       358.604900       -72.627680       346.167900       166.285300       347.456200        47.901680        60.007230         0.004349

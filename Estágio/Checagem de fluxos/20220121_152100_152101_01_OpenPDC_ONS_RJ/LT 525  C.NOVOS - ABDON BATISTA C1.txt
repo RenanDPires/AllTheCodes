@@ -1,0 +1,10 @@
+Terminal: LT 525  C.NOVOS - ABDON BATISTA C1
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    313205.700000       149.632300    313838.000000        29.553750    313085.400000       -90.595280       531.902700       151.403000       526.762300        31.705300       541.063500       -89.583500        60.007160         0.002289
+1642778461.0000    313084.100000       152.138200    313800.600000        32.050670    312943.300000       -88.108980       532.382600       154.004800       526.647800        34.200230       540.285700       -86.967000        60.006930        -0.022202

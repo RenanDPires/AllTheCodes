@@ -1,0 +1,10 @@
+Terminal: LT 500  SE CUIABA - JAURU C2
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       319.480300        46.133460       300.836200       -71.141240       315.957500       168.852300    316409.100000      -127.386300    315407.500000       112.402200    316216.100000        -7.429318        60.010760         0.024490
+1642778461.0000       318.843300        48.625110       300.027000       -68.701640       315.104600       171.345800    316405.700000      -124.865700    315398.900000       114.927000    316229.300000        -4.906510        60.007860        -0.063171

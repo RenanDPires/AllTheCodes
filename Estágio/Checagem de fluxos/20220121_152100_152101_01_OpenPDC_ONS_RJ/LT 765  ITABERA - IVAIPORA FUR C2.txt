@@ -1,0 +1,10 @@
+Terminal: LT 765  ITABERA - IVAIPORA FUR C2
+Tensão base: 765 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    453892.700000       -73.629830    455553.000000        46.291970    453848.300000       166.481700       368.752100       106.069700       386.513700      -131.867200       380.147100       -11.344440        60.008080        -0.059203
+1642778461.0000    453882.000000       -71.121290    455508.800000        48.784330    453935.100000       168.979700       367.090300       108.704200       385.936900      -129.329300       379.279000        -8.627533        60.008480         0.149377

@@ -1,0 +1,55 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Leitura dos dados
+df = pd.read_csv('Mall_Customers.csv')
+df.head()
+
+#tamanho do dataframe
+df.shape
+
+# verificar dados nulos
+df.isnull().sum()
+
+# informações estatísticas
+df.describe()
+
+# gerando gráfico de renda anual versus score do cliente
+plt.scatter(df['Annual Income (k$)'], df['Spending Score (1-100)'], marker='.')
+plt.xlabel('Renda Anual [k$]')
+plt.ylabel('Score (1-100)')
+plt.show()
+
+selecionando dados para o agrupamento
+X = df[['Annual Income (k$)', 'Spending Score (1-100)']]
+X.head()
+
+# Importando K-means
+from sklearn.cluster import KMeans
+
+# clusterizando com k = 5
+modelo_kmeans = KMeans(n_clusters= 5, init='k-means++')
+
+y_kmeans= modelo_kmeans.fit_predict(X)
+
+print(y_kmeans)
+
+# visualizando o primeiro grupo criado
+print(X[y_kmeans == 0])
+
+# visualizando todos os grupos
+k_grupos = 5
+cores = ['r', 'b', 'k', 'y', 'g']
+for k in range(k_grupos):
+    cluster = X[y_kmeans == k]
+    plt.scatter(cluster['Annual Income (k$)'], cluster['Spending Score (1-100)'],
+                s = 100, c = cores[k], label = f'Cluster {k}')
+
+
+plt.title('Grupos de clientes')
+plt.xlabel('Renda Anual (k$)')
+plt.ylabel('Score (1-100)')
+plt.grid()
+plt.legend()
+plt.show()

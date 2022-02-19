@@ -1,0 +1,10 @@
+Terminal: LT 500  PARANATINGA - CLAUDIA C3
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    307382.500000      -134.183000    306049.200000       106.631600    311225.600000       -13.461030      1164.145000        60.219890      1129.051000       -60.081600      1156.197000      -177.985500        60.008340         0.123825
+1642778461.0000    307275.100000      -131.645800    305959.700000       109.171900    311174.600000       -10.922360      1165.263000        62.665940      1129.092000       -57.634450      1156.362000      -175.512900        60.007110        -0.037079

@@ -1,0 +1,10 @@
+Terminal: LT 500  BATEIAS - IBIUNA C2
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    311424.700000       154.419800    312898.400000        34.239660    310297.600000       -85.862930       483.344800       -10.192040       500.956700      -130.839000       487.731900       108.721400        60.007250         0.034573
+1642778461.0000    311433.100000       156.926700    312899.100000        36.752900    310321.900000       -83.351520       483.251600        -7.852115       500.989400      -128.357800       488.617400       111.208800        60.007210        -0.033015

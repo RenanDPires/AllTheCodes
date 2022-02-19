@@ -1,0 +1,10 @@
+Terminal: BA1      230  SAMUEL
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    136427.800000       -76.059810        60.008850         0.034103
+1642778461.0000    136408.100000       -73.655610        60.007980         0.005722

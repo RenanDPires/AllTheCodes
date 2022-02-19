@@ -1,0 +1,10 @@
+Terminal: BA2      230  PORTO VELHO
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    137112.300000       166.525900        60.008750         0.013275
+1642778461.0000    137086.200000       168.930100        60.008150        -0.000916

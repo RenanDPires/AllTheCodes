@@ -1,0 +1,10 @@
+Terminal: LT 500  ACARAU III - PECEM II CL1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    312425.400000      -117.645100    313790.400000       122.344100    312317.900000         2.182861       211.229200      -130.160400       212.186400       111.033400       215.587100        -9.139697        60.006550        -0.009613
+1642778461.0000    312398.500000      -114.892100    313781.800000       125.096800    312286.100000         4.932611       210.857800      -127.332100       212.032200       113.748800       215.220600        -6.442307        60.007470         0.002518

@@ -1,0 +1,10 @@
+Terminal: LT 500  PARNAIBA III - BACABEIRA C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       806.800200        94.397000       983.926600       141.184900      1104.681000       154.523300         0.837755         5.566524         0.138271        -5.146511         0.291809        87.017560        59.931350        -5.661850
+1642778461.0000       810.272100        96.525340       998.605500       143.070700      1096.829000       157.174600         0.200935      -109.543600         0.132199      -143.913700         0.715002        36.709540        59.952440        -2.153320

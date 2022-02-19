@@ -1,0 +1,10 @@
+Terminal: BAB      765  TIJUCO PRETO
+Tensão base: 765 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    435589.800000        44.364530        60.008790        -0.009408
+1642778461.0000    435572.000000        46.858990        60.008150         0.276344

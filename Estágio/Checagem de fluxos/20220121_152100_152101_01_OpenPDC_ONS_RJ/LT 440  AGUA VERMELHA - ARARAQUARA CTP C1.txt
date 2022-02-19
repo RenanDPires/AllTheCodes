@@ -1,0 +1,10 @@
+Terminal: LT 440  AGUA VERMELHA - ARARAQUARA CTP C1
+Tensão base: 440 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    260823.900000      -165.506500    260464.200000        74.066460    258367.900000       -45.677650       781.049700      -156.744600       777.914300        83.783100       800.622600       -36.384820        60.008560         0.081940
+1642778461.0000    260787.600000      -163.014900    260413.800000        76.560360    258332.900000       -43.177490       781.635900      -154.216300       778.194600        86.264630       800.599500       -33.864960        60.007470         0.018997

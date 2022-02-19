@@ -1,0 +1,10 @@
+Terminal: BAB      525  ITA
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    311697.000000       152.957100        60.007350         0.030670
+1642778461.0000    311536.200000       155.473700        60.007320        -0.013504

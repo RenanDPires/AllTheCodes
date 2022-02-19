@@ -1,0 +1,10 @@
+Terminal: LT 765  TIJUCO PRETO - ITABERA C1
+Tensão base: 765 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    421069.300000       -75.934230    423755.900000        44.269870    423489.800000       164.248500       537.154600        62.901330       546.548800      -176.975100       524.850400       -56.529970        60.007760        -0.060821
+1642778461.0000    421099.600000       -73.417230    423752.900000        46.765650    423637.200000       166.751200       535.498300        65.331570       545.414600      -174.528800       523.535500       -53.974900        60.007920         0.177850

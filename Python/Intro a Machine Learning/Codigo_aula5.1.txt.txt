@@ -1,0 +1,77 @@
+
+# coding: utf-8
+
+# ### Introdução às redes neurais
+
+# ##### Inspirado no neurônio biológico
+# ##### Modelo de McCulloch-Pitts (1943)
+
+# <img src='neuronio.png'>
+
+# <img src ='rede.png'>
+
+# ##### Na realidade temos 10ˆ11 (100 bilhões de neurônios)
+
+# <img src='seq.png'>
+
+# ##### Neurônio artificial
+
+# <img src='artificial.png'>
+
+# <img src='neuron-perceptron.png'>
+
+# ##### O problema do "ou-exclusivo"
+# <img src='xor.png'>
+
+# ##### Neurônios podem ser considerados como retas
+# <img src='regs.png'>
+
+# ##### A rede neural combina resultados
+# <img src='mlp.png'>
+
+# ##### Implementação de Redes Neurais
+
+# In[2]:
+
+from sklearn.neural_network import MLPRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.datasets import load_boston
+
+
+# In[3]:
+
+X,y = load_boston(return_X_y=True)
+
+
+# In[4]:
+
+X_train, X_test, y_train, y_test = train_test_split(X,y)
+
+
+# In[5]:
+
+mm = MinMaxScaler()
+X_train = mm.fit_transform(X_train)
+X_test = mm.transform(X_test)
+
+
+# In[24]:
+
+mlp = MLPRegressor(hidden_layer_sizes=(100,100,50,50),max_iter=1000)
+
+
+# In[25]:
+
+mlp.fit(X_train,y_train)
+
+
+# In[26]:
+
+mlp.score(X_test,y_test)
+
+
+# In[ ]:
+
+
+

@@ -1,0 +1,10 @@
+Terminal: UFBA-PMU_Salvador_BA
+Tensão base: 0,22 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       127.414800      -112.953600       126.764700       126.465700       126.150800         7.069937        60.006580         0.046692
+1642778461.0000       127.385400      -110.230500       126.733600       129.189900       126.117100         9.795782        60.004910        -0.076904

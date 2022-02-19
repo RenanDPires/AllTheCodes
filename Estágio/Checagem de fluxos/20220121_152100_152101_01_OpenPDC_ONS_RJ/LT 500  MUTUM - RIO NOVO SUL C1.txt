@@ -1,0 +1,10 @@
+Terminal: LT 500  MUTUM - RIO NOVO SUL C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    301294.900000      -168.911800    300232.500000        71.226330    300224.900000       -48.677590       188.915100       -92.306330       195.149300       145.428500       179.664700        27.274270        60.010560         0.362778
+1642778461.0000    300552.800000      -166.352600    299873.800000        73.772030    299619.600000       -46.195390       185.179700       -89.870040       193.099400       147.519000       178.617200        28.703300        60.010950         0.114899

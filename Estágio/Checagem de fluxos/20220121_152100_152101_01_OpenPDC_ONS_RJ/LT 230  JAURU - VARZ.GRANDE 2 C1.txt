@@ -1,0 +1,10 @@
+Terminal: LT 230  JAURU - VARZ.GRANDE 2 C1
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    136143.500000      -116.909400    135514.400000       122.939900    135985.700000         3.229467       176.829500      -103.419500       181.747300       136.809200       180.624800        16.235170        60.007110         0.044174
+1642778461.0000    136138.000000      -114.414400    135524.000000       125.436100    135994.000000         5.725122       176.473900      -100.889500       181.302000       139.340000       180.077900        18.760900        60.006420        -0.043259

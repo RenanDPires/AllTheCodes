@@ -1,0 +1,10 @@
+Terminal: UFPA-PMU_Belem_PA
+Tensão base: 0,22 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       133.200700      -116.984600       134.485400       123.014400       133.501800         2.614285        60.007940        -0.005493
+1642778461.0000       133.143600      -114.186300       134.437500       125.816300       133.450800         5.412005        60.006550        -0.043716

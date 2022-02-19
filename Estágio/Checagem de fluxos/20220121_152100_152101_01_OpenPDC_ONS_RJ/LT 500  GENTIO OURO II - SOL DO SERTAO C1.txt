@@ -1,0 +1,10 @@
+Terminal: LT 500  GENTIO OURO II - SOL DO SERTAO C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    305284.200000      -124.538900    306125.100000       115.270800    304482.400000        -4.724012       339.809000      -103.730200       353.960400       134.989200       340.582900        14.431480        60.007800         0.091782
+1642778461.0000    305213.100000      -121.835500    306095.400000       117.972300    304410.300000        -2.024220       341.836600      -101.102900       355.917800       137.598700       342.196500        17.240880        60.008690         0.092926

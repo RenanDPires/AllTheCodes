@@ -1,0 +1,10 @@
+Terminal: BAB2     525  BATEIAS
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    313342.700000        33.912730        60.007360         0.091381
+1642778461.0000    313348.000000        36.426010        60.007870         0.059963

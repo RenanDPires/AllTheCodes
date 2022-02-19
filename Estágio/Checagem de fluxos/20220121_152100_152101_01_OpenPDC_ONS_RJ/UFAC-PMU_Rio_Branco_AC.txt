@@ -1,0 +1,10 @@
+Terminal: UFAC-PMU_Rio_Branco_AC
+Tensão base: 0,22 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       126.714100       -91.382290       124.553000       147.836100       124.810300        26.939700        60.010830        -0.001831
+1642778461.0000       126.709300       -88.974840       124.533200       150.235400       124.779600        29.351270        60.008890         0.010300

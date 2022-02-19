@@ -1,0 +1,10 @@
+Terminal: BAB2     500  SANTA LUZIA II
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    306880.300000       119.549300        60.008440         0.059509          *
+1642778461.0000    306817.900000       122.246400        60.008160         0.049438

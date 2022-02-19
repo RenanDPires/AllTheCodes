@@ -1,0 +1,10 @@
+Terminal: LT 500  MIRACEMA - SE LAJEADO C2
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    306535.000000      -121.102700    306809.400000       119.176500    306454.600000        -1.219397       380.871900        74.988300       359.817700       -43.188280       366.421700      -163.297300        60.007720         0.056978
+1642778461.0000    306384.800000      -118.395500    306697.200000       121.886000    306333.200000         1.482819       380.872800        77.553680       359.739900       -40.594400       366.491200      -160.724900        60.007720         0.046242

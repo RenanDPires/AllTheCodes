@@ -1,0 +1,15 @@
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\bin\Debug\net6.0\CSharp.exe
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\bin\Debug\net6.0\CSharp.deps.json
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\bin\Debug\net6.0\CSharp.dll
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\bin\Debug\net6.0\ref\CSharp.dll
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\bin\Debug\net6.0\CSharp.pdb
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\obj\Debug\net6.0\CSharp.dll
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\obj\Debug\net6.0\ref\CSharp.dll
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\obj\Debug\net6.0\CSharp.pdb
+C:\Users\DUARTE\Documents\GitHub\AllTheCodes\C#\CSharp\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache

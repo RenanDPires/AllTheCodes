@@ -1,0 +1,10 @@
+Terminal: LT 500  BURITIRAMA - BARREIRAS II CN6
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    308665.300000      -124.280600    309145.000000       115.848300    307196.600000        -4.085635       475.174400      -119.008800       505.502200       119.466100       480.597000        -1.280917        60.007430         0.081711
+1642778461.0000    308571.700000      -121.575900    309081.800000       118.550500    307079.500000        -1.384792       478.106800      -116.373800       507.525100       122.143400       482.891000         1.387859        60.008100         0.061111

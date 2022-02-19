@@ -1,0 +1,10 @@
+Terminal: LT 500  IMPERATRIZ - P.DUTRA C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    301355.100000      -109.998600    303028.600000       129.852100    302325.900000         9.600217       280.143300       -83.052510       262.209700       156.578300       267.985600        38.770290        60.006950        -0.007324
+1642778461.0000    301171.400000      -107.241100    302873.900000       132.615600    302156.400000        12.353920       280.025300       -80.182360       262.599500       159.534100       268.156100        41.714870        60.007180         0.000916

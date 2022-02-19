@@ -1,0 +1,10 @@
+Terminal: LT 500  P. AFONSO IV_SE - ANGELIM II CL6
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    311001.100000      -112.965400    311626.100000       126.707800    308977.900000         6.861214       480.581300       -94.359670       507.416700       145.188900       484.385900        24.098190        60.006890         0.016708
+1642778461.0000    310914.000000      -110.205300    311557.900000       129.465900    308883.800000         9.618098       480.561200       -91.642530       507.367300       147.926800       484.569300        26.777320        60.007690         0.016708

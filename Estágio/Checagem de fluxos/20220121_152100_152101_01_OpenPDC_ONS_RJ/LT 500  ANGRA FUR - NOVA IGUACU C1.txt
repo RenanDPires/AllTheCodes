@@ -1,0 +1,10 @@
+Terminal: LT 500  ANGRA FUR - NOVA IGUACU C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    303374.100000       -58.382030    305107.300000        61.470780    304840.300000      -178.303900       383.499100       -33.777200       378.881300        85.464580       380.911700      -154.321700        60.008440         0.200579
+1642778461.0000    303697.100000       -55.772350    305169.000000        64.005480    305387.700000      -175.775800       382.533400       -31.042410       377.493300        88.213090       380.219400      -151.619700        60.010480         0.555843

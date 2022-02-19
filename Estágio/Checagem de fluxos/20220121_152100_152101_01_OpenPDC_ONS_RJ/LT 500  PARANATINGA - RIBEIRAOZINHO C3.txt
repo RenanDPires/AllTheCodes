@@ -1,0 +1,10 @@
+Terminal: LT 500  PARANATINGA - RIBEIRAOZINHO C3
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    291836.500000      -116.898000    292708.600000       124.535500    298714.200000         3.848524      1080.812000      -112.051100      1166.179000       126.508600      1110.828000         3.904062        60.007040         0.075760
+1642778461.0000    291777.800000      -114.358200    292673.200000       127.080000    298681.500000         6.388937      1080.905000      -109.525700      1166.036000       129.035100      1111.186000         6.447085        60.007380        -0.054245

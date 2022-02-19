@@ -1,0 +1,10 @@
+Terminal: LT 500  RIO DAS EGUAS - BARREIRAS II CN5
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       753.663800        54.149140       759.714400       -65.533690       756.997200       174.920800    307066.400000      -132.814700    307846.500000       106.708000    307481.600000       -12.947160        60.007680         0.078735
+1642778461.0000       756.638700        56.840580       762.712800       -62.826350       759.252500       177.650600    306967.500000      -130.147000    307773.000000       109.374400    307407.000000       -10.288890        60.008410         0.051270

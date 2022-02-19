@@ -1,0 +1,10 @@
+Terminal: LT 500  RIO DAS EGUAS - ARINOS 2 CN4
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    309543.200000      -130.985600    308763.200000       108.565300    307720.400000       -11.084600       463.006600      -125.637300       477.343300       112.303400       460.434400        -6.632761        60.008900         0.127878
+1642778461.0000    309417.800000      -128.313200    308683.900000       111.240000    307630.600000        -8.418408       464.135600      -122.949500       478.338800       114.929400       461.337900        -3.987121        60.007880         0.132149

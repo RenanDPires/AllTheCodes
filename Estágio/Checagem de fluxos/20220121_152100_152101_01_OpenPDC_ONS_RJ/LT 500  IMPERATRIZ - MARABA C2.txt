@@ -1,0 +1,10 @@
+Terminal: LT 500  IMPERATRIZ - MARABA C2
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    312287.500000      -111.533400    313503.200000       128.487600    313618.500000         8.238710       706.020400        73.149510       708.032000       -45.694760       719.512900      -164.627000        60.006980        -0.014648
+1642778461.0000    312110.300000      -108.773900    313356.300000       131.246600    313482.800000        10.994760       708.540300        76.025900       710.669200       -42.831060       722.476800      -161.794700        60.007510         0.020370

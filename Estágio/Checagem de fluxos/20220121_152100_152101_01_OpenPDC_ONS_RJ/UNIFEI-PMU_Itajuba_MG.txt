@@ -1,0 +1,10 @@
+Terminal: UNIFEI-PMU_Itajuba_MG
+Tensão base: 0,22 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       125.050800       171.905000       125.358700        51.871500       124.964600       -67.906040        60.008440         0.081482
+1642778461.0000       125.141900       174.438100       125.373600        54.406760       125.021000       -65.345920        60.007080         0.086517

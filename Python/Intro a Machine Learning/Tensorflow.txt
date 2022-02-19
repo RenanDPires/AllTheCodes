@@ -1,0 +1,132 @@
+
+# coding: utf-8
+
+# <img src='tensor.png'>
+
+# <img src='parcs.png'>
+
+# In[2]:
+
+import tensorflow as tf
+from tensorflow import keras
+import numpy as np
+
+
+# In[3]:
+
+fashion_mnist = keras.datasets.fashion_mnist
+
+(train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
+
+
+# In[4]:
+
+train_images.shape
+
+
+# In[5]:
+
+len(train_labels)
+
+
+# In[6]:
+
+np.unique(train_labels)
+
+
+# In[7]:
+
+test_images.shape
+
+
+# In[8]:
+
+len(test_labels)
+
+
+# In[9]:
+
+test_labels
+
+
+# In[10]:
+
+train_images = train_images / 255.0
+
+test_images = test_images / 255.0
+
+
+# In[11]:
+
+model = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation=tf.nn.relu),
+    keras.layers.Dense(10, activation=tf.nn.softmax)
+])
+model.summary()
+
+
+# In[12]:
+
+model.compile(optimizer='adam', 
+              loss='sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+
+
+# In[13]:
+
+model.fit(train_images, train_labels, epochs=5)
+
+
+# In[14]:
+
+test_loss, test_acc = model.evaluate(test_images, test_labels)
+
+print('Test accuracy:', test_acc)
+
+
+# In[15]:
+
+predictions = model.predict(test_images)
+
+
+# In[16]:
+
+predictions[0]
+
+
+# In[17]:
+
+np.argmax(predictions[0])
+
+
+# In[18]:
+
+test_labels[0]
+
+
+# In[19]:
+
+img = test_images[0]
+
+print(img.shape)
+
+
+# In[20]:
+
+img = (np.expand_dims(img,0))
+
+print(img.shape)
+
+
+# In[21]:
+
+predictions_single = model.predict(img)
+
+print(predictions_single)
+
+
+# In[22]:
+
+np.argmax(predictions_single[0])
+

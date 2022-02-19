@@ -1,0 +1,10 @@
+Terminal: LT 500  G.VALADARES 6 - MUTUM C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    295620.900000      -164.077900    295401.400000        76.050450    295184.900000       -43.875230       840.923100      -148.292300       845.690600        90.546410       827.834800       -29.352750        60.007480         0.231171
+1642778461.0000    295006.500000      -161.498600    295099.000000        78.614160    294674.100000       -41.353560       841.477600      -146.108100       847.264600        92.902720       831.389800       -27.198950        60.005900        -0.116043

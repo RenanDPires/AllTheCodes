@@ -1,0 +1,10 @@
+Terminal: BA1      440  ILHA SOLTEIRA
+Tensão base: 440 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    249563.100000        68.130410        60.007000        -0.050000
+1642778461.0000    249512.300000        70.622780        60.008000         0.010000

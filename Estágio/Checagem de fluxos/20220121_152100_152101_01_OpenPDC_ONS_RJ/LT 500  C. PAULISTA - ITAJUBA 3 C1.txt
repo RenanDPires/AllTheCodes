@@ -1,0 +1,10 @@
+Terminal: LT 500  C. PAULISTA - ITAJUBA 3 C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    310133.600000       -65.469150    312765.500000        54.235330    312824.700000       174.679900       222.559400        96.149960       211.677900      -141.267700       210.448300       -24.537510        60.008820         0.100703
+1642778461.0000    310286.200000       -62.897150    312775.700000        56.755240    313150.700000       177.203900       219.543600        98.601740       211.201200      -138.715300       208.632200       -21.373190        60.010070         0.399453

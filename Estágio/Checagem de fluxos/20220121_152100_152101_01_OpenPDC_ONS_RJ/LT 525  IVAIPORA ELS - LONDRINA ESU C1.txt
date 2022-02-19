@@ -1,0 +1,10 @@
+Terminal: LT 525  IVAIPORA ELS - LONDRINA ESU C1
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    307614.200000       168.105200    308214.000000        47.830860    306602.200000       -72.026670       227.911300       -44.506050       206.854000      -165.377700       212.994400        78.025700        60.007290         0.015564
+1642778461.0000    307630.800000       170.597200    308181.600000        50.321550    306559.500000       -69.530820       227.645000       -42.239180       206.982300      -162.975300       213.030800        80.322610        60.007690         0.017395

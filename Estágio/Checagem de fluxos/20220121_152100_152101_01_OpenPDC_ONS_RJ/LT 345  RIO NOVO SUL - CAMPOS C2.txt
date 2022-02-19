@@ -1,0 +1,10 @@
+Terminal: LT 345  RIO NOVO SUL - CAMPOS C2
+Tensão base: 345 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    199915.400000       -49.119670    200401.700000        70.638360    200433.600000      -169.377700       404.545300       123.152700       413.440000      -116.967500       418.928500         1.249650        60.013550         0.238724
+1642778461.0000    199464.000000       -46.658200    200097.600000        73.165120    199839.300000      -166.843800       410.013000       124.813500       413.708800      -115.050300       420.472000         2.479632        60.010370        -0.149299

@@ -1,0 +1,10 @@
+Terminal: BA1      230  JAURU
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    135749.300000       122.940300        60.007580         0.072784
+1642778461.0000    135747.300000       125.439300        60.006760        -0.013046

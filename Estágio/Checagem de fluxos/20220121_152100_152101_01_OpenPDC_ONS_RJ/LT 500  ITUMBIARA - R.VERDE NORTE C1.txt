@@ -1,0 +1,10 @@
+Terminal: LT 500  ITUMBIARA - R.VERDE NORTE C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    315875.000000      -152.985500    315097.400000        86.940610    315157.200000       -32.859130       644.800000        33.426360       663.000000       -86.459330       647.800000       152.360900        60.008000         0.000000
+1642778461.0000    315815.200000      -150.424300    315037.600000        89.507470    315127.300000       -30.298010       642.800000        35.976020       660.800000       -83.903940       645.800000       154.904900        60.008000         0.000000

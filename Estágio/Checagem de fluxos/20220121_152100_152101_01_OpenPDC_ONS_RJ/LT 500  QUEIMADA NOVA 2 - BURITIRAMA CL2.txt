@@ -1,0 +1,10 @@
+Terminal: LT 500  QUEIMADA NOVA 2 - BURITIRAMA CL2
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    305013.300000      -120.606200    305271.500000       118.643700    305677.300000        -0.699201       330.255900       -79.458290       332.610000       157.893600       313.387700        41.714900        60.007460         0.056534
+1642778461.0000    304930.700000      -117.880800    305187.700000       121.363400    305573.300000         2.017858       331.519700       -76.801930       333.926900       160.387100       314.195800        44.283120        60.008260         0.085831

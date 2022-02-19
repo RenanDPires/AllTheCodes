@@ -1,0 +1,10 @@
+Terminal: BA1      440  BRACELL
+Tensão base: 440 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    452463.900000        49.690270        60.007620        -0.099144
+1642778461.0000    452458.100000        52.189920        60.008000         0.030540

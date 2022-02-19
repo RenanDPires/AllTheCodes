@@ -1,0 +1,10 @@
+Terminal: BA1      500  RIO NOVO SUL
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    302119.300000        70.821310        60.009160         0.338974
+1642778461.0000    301711.300000        73.354970        60.004730        -0.169373

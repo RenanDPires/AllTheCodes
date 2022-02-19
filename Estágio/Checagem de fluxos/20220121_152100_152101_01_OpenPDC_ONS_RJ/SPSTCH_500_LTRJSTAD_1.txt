@@ -1,0 +1,10 @@
+Terminal: SPSTCH_500_LTRJSTAD_1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    311915.300000       -65.339750    311792.300000        54.401990    312696.000000       174.622700       637.600700       131.194000       643.927900      -110.663100       630.253400        10.161590        60.008620         0.129096
+1642778461.0000    312076.300000       -62.765540    311821.200000        56.924000    313028.300000       177.148100       642.516900       133.494000       646.502500      -108.209700       632.635300        12.422830        60.010050         0.395846

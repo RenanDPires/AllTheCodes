@@ -1,0 +1,135 @@
+
+# coding: utf-8
+
+# ### Árvores de Decisão
+# ##### Conjunto de regras "se-então" utilizadas para regressão e classificação
+
+# <img src='dados-sem-arv.png'>
+
+# <img src='dados-com-arv.png'>
+
+# ### Como obter a árvore a partir dos dados?
+# ##### Utiliza-se um índice de impureza do resultado de uma divisão
+# ##### Vários índices podem ser utilizados (gini, entropia...)
+
+# <img src='gini-ex1.png'>
+
+# <img src='gini-ex2.png'>
+
+# <img src='gini-ex3.png'>
+
+# <img src='gini-ex4.png'>
+
+# In[1]:
+
+from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
+from sklearn.datasets import load_boston, load_iris
+from sklearn.model_selection import train_test_split
+
+
+# In[2]:
+
+dt = DecisionTreeClassifier()
+
+
+# In[3]:
+
+X,y = load_iris(return_X_y=True)
+X_train, X_test, y_train, y_test = train_test_split(X,y)
+
+
+# In[4]:
+
+dt.fit(X_train,y_train)
+
+
+# In[5]:
+
+dt.score(X_test,y_test)
+
+
+# In[6]:
+
+dt = DecisionTreeRegressor()
+
+
+# In[7]:
+
+X,y = load_boston(return_X_y=True)
+
+
+# In[8]:
+
+X_train, X_test, y_train, y_test = train_test_split(X,y)
+
+
+# In[9]:
+
+dt.fit(X_train,y_train)
+
+
+# In[10]:
+
+dt.score(X_test,y_test)
+
+
+# In[16]:
+
+dt = DecisionTreeClassifier(max_depth=3)
+
+
+# In[17]:
+
+X,y = load_iris(return_X_y=True)
+
+
+# In[18]:
+
+X_train, X_test, y_train, y_test = train_test_split(X,y)
+
+
+# In[19]:
+
+dt.fit(X_train,y_train)
+
+
+# In[20]:
+
+dt.score(X_test,y_test)
+
+
+# In[21]:
+
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.datasets import load_breast_cancer
+
+
+# In[22]:
+
+dt = DecisionTreeClassifier()
+
+
+# In[23]:
+
+X,y = load_breast_cancer(return_X_y=True)
+
+
+# In[24]:
+
+dt.fit(X,y)
+
+
+# In[25]:
+
+X.shape
+
+
+# In[26]:
+
+dt.feature_importances_
+
+
+# In[ ]:
+
+
+

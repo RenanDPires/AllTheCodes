@@ -1,0 +1,10 @@
+Terminal: LT 525  NOVA STA RITA - GRAVATAI C1
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    310842.300000       143.636600    311307.100000        23.316060    309074.100000       -96.608220       504.856200       144.116600       530.577700        23.549190       513.525800       -99.369510        60.008140         0.039597
+1642778461.0000    310489.100000       146.169500    311226.000000        25.819480    308700.600000       -94.136910       503.618500       146.511300       530.321500        26.041540       514.076400       -97.031650        60.005140        -0.059052

@@ -1,0 +1,10 @@
+Terminal: BAB      500  IBIUNA
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    313704.700000        38.644280        60.008190        -0.020090
+1642778461.0000    313705.400000        41.150020        60.007800         0.193264

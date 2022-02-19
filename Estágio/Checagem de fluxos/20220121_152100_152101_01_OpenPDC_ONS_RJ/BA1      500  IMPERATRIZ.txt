@@ -1,0 +1,10 @@
+Terminal: BA1      500  IMPERATRIZ
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    314783.300000       128.399300        60.007380         0.032959
+1642778461.0000    314637.900000       131.162300        60.006810        -0.007782

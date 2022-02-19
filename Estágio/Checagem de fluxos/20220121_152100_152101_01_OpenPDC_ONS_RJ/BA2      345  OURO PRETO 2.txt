@@ -1,0 +1,10 @@
+Terminal: BA2      345  OURO PRETO 2
+Tensão base: 345 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    206413.200000      -176.316000        60.009500         0.462678
+1642778461.0000    206396.500000      -173.778700        60.009240         0.248321

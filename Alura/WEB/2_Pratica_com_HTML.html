@@ -1,0 +1,92 @@
+<meta charset='UTF-8'>
+<h1>Aprendendo a escrever com html e javascript</h1>
+HTML é estática.
+<br>
+<script>
+	document.write('Já o JavaScript é dinâmico'+'<br>'+'HTML é casca e JavaScript é conteúdo'+'<br>'+'Soma abaixo: 23 + 24= '+(23+24));
+	document.write('<br>');
+	document.write("Flávio nasceu em " + (2016 - 39));
+    document.write("<br>");
+    document.write("Joaquim nasceu em " + (2016 - 20));
+    document.write("<br>");
+    document.write("Barney nasceu em " + (2016 - 40));
+</script>
+<h1>Criando variáveis</h1>
+<script>
+	var pulaLinha= '<br><br>';
+	var a= 2016
+	document.write('Já o JavaScript é dinâmico'+'<br>'+'HTML é casca e JavaScript é conteúdo'+'<br>'+'Soma abaixo: 23 + 24= '+(23+24));
+	document.write('<br>');
+	document.write("Flávio nasceu em " + (a - 39));
+    document.write("<br>");
+    document.write("Joaquim nasceu em " + (a - 20));
+    document.write("<br>");
+    document.write("Barney nasceu em " + (a - 40));
+	a= 2017
+	document.write('pulaLinha'+'<h2>'+'Mudando a variável *a* de 2016 para 2017'+'</h2>'+'<br>');
+	document.write("Flávio nasceu em " + (a - 39));
+    document.write("<br>");
+    document.write("Joaquim nasceu em " + (a - 20));
+    document.write("<br>");
+    document.write("Barney nasceu em " + (a - 40));
+	
+	var idadeFlavio= 39;
+	var idadeJoaquim= 20;
+	var idadeBarney= 41;
+	
+	var media= (idadeFlavio+idadeJoaquim+idadeBarney)/3;
+	
+	document.write('<br>'+'A idade média é '+Math.round(media)+'.');
+	document.write('<br>');
+	
+	var nome= 'Flávio';
+	
+	document.write('A idade de '+nome+' é '+idadeFlavio+'<br>');
+</script>
+
+<script>
+	function pulalinha(){
+		document.write('<br>');
+		document.write('<br>');
+	}
+	document.write('Aqui uma função para pular duas linhas');
+	pulalinha();
+	document.write('Aqui uma função para pular duas linhas');
+</script>
+<script>
+	function mostra(frase){
+		pulalinha();
+		document.write(frase);
+		pulalinha();
+	}
+		
+	mostra('calopsita');
+</script>
+
+<script>
+    var idade1 = 10;
+    var idade2 = 20;
+    var idade3 = 30;
+    var totalIdades = idade1 + idade2 + idade3;
+    var mediaIdades = totalIdades/3;
+    alert("***Total de idades é " + totalIdades + "***");
+    alert("***A média das idades é " +  mediaIdades + "***");
+</script>
+
+<script>
+
+function pulaLinha() {
+    document.write('<br><hr><br>');
+}
+
+function mostra(frase) {
+    document.write('<big>'+frase+'</big>');
+    pulaLinha();
+}
+
+var ano = 2019;
+mostra("Eu nasci em : " + (ano - 25));
+mostra("Adriano nasceu em : " + (ano - 26));
+mostra("Paulo nasceu em : " + (ano - 32));
+
+</script>

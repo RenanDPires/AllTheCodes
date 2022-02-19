@@ -1,0 +1,10 @@
+Terminal: LT 500  JANAUBA 3 - IGAPORA III CL6
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    308542.200000      -135.134900    308391.500000       104.866600    307485.500000       -14.738230       157.050100        16.694850       181.886800      -100.358600        99.297600       131.119200        60.007540         0.096817
+1642778461.0000    308452.200000      -132.464200    308326.400000       107.536000    307382.800000       -12.074760       158.148100        19.454720       183.425600       -97.397680       100.020500       134.088500        60.008670         0.065460

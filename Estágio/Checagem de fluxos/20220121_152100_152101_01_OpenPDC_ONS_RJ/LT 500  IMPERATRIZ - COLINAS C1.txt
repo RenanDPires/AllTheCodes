@@ -1,0 +1,10 @@
+Terminal: LT 500  IMPERATRIZ - COLINAS C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    307130.800000      -108.682000    308709.200000       131.265500    307703.200000        11.104250       956.067400       -96.542490       897.110900       144.597700       950.843300        27.681820        60.007750         0.020370
+1642778461.0000    306987.200000      -105.911100    308593.700000       134.040200    307586.100000        13.875530       959.633900       -93.837490       900.999100       147.279700       955.016700        30.334160        60.006860        -0.018539

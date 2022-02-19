@@ -1,0 +1,10 @@
+Terminal: BAA5     500  ITUMBIARA
+Tensão base: 440 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    304696.600000        86.797380        60.008000         0.010000
+1642778461.0000    304667.700000        89.358500        60.008000         0.010000

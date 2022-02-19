@@ -1,0 +1,10 @@
+Terminal: UNICAMP-PMU_Campinas_SP
+Tensão base: 0,22 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       124.043300       159.060100       122.879000        38.992740       122.458600       -80.962690        60.009470         0.027466
+1642778461.0000       124.078700       161.557000       122.882600        41.491170       122.452500       -78.453210        60.007980         0.046921

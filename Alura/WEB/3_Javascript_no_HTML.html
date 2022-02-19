@@ -1,0 +1,45 @@
+<script>
+	function pulalinha(){
+		document.write('<br><hr><br>');
+		}
+	function mostra(texto){
+		document.write(texto);
+		pulalinha();
+		}
+	function imc(massa,altura){
+		document.write('Seu IMC é:<br>');
+		var imc= massa/(altura * altura);
+		mostra(imc);
+		}
+	
+	imc(105,1.75);
+	
+	function calculaImc(massa,altura){
+		var imc= massa/(altura * altura);
+		return imc;
+		}
+	var novoImc= calculaImc(105,1.50);
+	
+	mostra(novoImc);
+</script>
+
+<meta charset="UTF-8">
+<script>
+    function pulaLinha() {
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+        document.write(frase);
+        pulaLinha();
+    }
+
+    function calculaImc(altura, peso) {
+
+        var imc = peso / (altura * altura);
+		return imc
+    }
+
+    var imcCalculado = calculaImc(1.77, 75);
+    mostra("O meu IMC é : " + imcCalculado);
+</script>

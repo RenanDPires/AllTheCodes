@@ -1,0 +1,10 @@
+Terminal: LT 525  IVAIPORA ELS - IVAIPORA FUR C1
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    308718.100000       168.007800    309490.600000        47.751250    307526.500000       -72.178860       199.122600        32.945680       195.024700       -87.026490       205.960200       153.639000        60.007350         0.027695
+1642778461.0000    308723.300000       170.500000    309446.700000        50.239430    307495.900000       -69.680970       199.104200        35.238560       195.572800       -84.615280       206.494200       155.778900        60.007590         0.017166

@@ -1,0 +1,10 @@
+Terminal: BAB      765  ITABERA
+Tensão base: 765 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    456665.500000        46.270300        60.008300        -0.008520
+1642778461.0000    456630.300000        48.763040        60.009100         0.297305

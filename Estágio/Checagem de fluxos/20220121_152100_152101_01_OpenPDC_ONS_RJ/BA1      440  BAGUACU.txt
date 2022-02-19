@@ -1,0 +1,10 @@
+Terminal: BA1      440  BAGUACU
+Tensão base: 440 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    263186.300000        60.450620        60.007550        -0.068122
+1642778461.0000    263141.000000        62.939060        60.008080         0.020858

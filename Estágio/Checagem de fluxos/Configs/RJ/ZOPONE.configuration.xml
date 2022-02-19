@@ -1,0 +1,154 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:ConfigurationFrame2 id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<idCode>11501</idCode>
+<cells href="#ref-3"/>
+<timestamp>637782000000000000</timestamp>
+<frameRate>60</frameRate>
+<frameHeader href="#ref-4"/>
+<timebase>1000000</timebase>
+</a1:ConfigurationFrame2>
+<a1:ConfigurationCellCollection id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<maximumCount>65536</maximumCount>
+<count>2</count>
+<item0 href="#ref-5"/>
+<item1 href="#ref-6"/>
+<constantCellLength>false</constantCellLength>
+</a1:ConfigurationCellCollection>
+<a1:CommonFrameHeader id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<frameType xsi:type="a1:FrameType" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">ConfigurationFrame2</frameType>
+<version>1</version>
+<frameLength>204</frameLength>
+<timebase>1000000</timebase>
+<timeQualityFlags>0</timeQualityFlags>
+</a1:CommonFrameHeader>
+<a1:ConfigurationCell id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-1"/>
+<id>11501</id>
+<stationName id="ref-8">SPAZL_440_PM_01</stationName>
+<idLabel xsi:type="xsd:anyType" xsi:null="1"/>
+<phasorDefinitions href="#ref-9"/>
+<frequencyDefinition href="#ref-10"/>
+<analogDefinitions href="#ref-11"/>
+<digitalDefinitions href="#ref-12"/>
+<nominalFrequency xsi:type="a4:LineFrequency" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/GSF.Units.EE/GSF.Core">Hz60</nominalFrequency>
+<revisionCount>0</revisionCount>
+<formatFlags xsi:type="a1:FormatFlags" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">Coordinates, Phasors, Analog, Frequency</formatFlags>
+</a1:ConfigurationCell>
+<a1:ConfigurationCell id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-1"/>
+<id>11502</id>
+<stationName id="ref-13">SPAZL_440_PM_02</stationName>
+<idLabel xsi:type="xsd:anyType" xsi:null="1"/>
+<phasorDefinitions href="#ref-14"/>
+<frequencyDefinition href="#ref-15"/>
+<analogDefinitions href="#ref-16"/>
+<digitalDefinitions href="#ref-17"/>
+<nominalFrequency xsi:type="a4:LineFrequency" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/GSF.Units.EE/GSF.Core">Hz60</nominalFrequency>
+<revisionCount>0</revisionCount>
+<formatFlags xsi:type="a1:FormatFlags" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">Coordinates, Phasors, Analog, Frequency</formatFlags>
+</a1:ConfigurationCell>
+<a3:PhasorDefinitionCollection id="ref-9" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols/GSF.PhasorProtocols">
+<maximumCount>16361</maximumCount>
+<count>3</count>
+<item0 href="#ref-18"/>
+<item1 href="#ref-19"/>
+<item2 href="#ref-20"/>
+</a3:PhasorDefinitionCollection>
+<a1:FrequencyDefinition id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-5"/>
+<index>0</index>
+<label xsi:type="xsd:anyType" xsi:null="1"/>
+<scale>1000</scale>
+<offset>0</offset>
+<dfdtScale>100</dfdtScale>
+<dfdtOffset>0</dfdtOffset>
+</a1:FrequencyDefinition>
+<a3:AnalogDefinitionCollection id="ref-11" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols/GSF.PhasorProtocols">
+<maximumCount>32745</maximumCount>
+<count>0</count>
+</a3:AnalogDefinitionCollection>
+<a3:DigitalDefinitionCollection id="ref-12" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols/GSF.PhasorProtocols">
+<maximumCount>32745</maximumCount>
+<count>0</count>
+</a3:DigitalDefinitionCollection>
+<a3:PhasorDefinitionCollection id="ref-14" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols/GSF.PhasorProtocols">
+<maximumCount>16361</maximumCount>
+<count>3</count>
+<item0 href="#ref-21"/>
+<item1 href="#ref-22"/>
+<item2 href="#ref-23"/>
+</a3:PhasorDefinitionCollection>
+<a1:FrequencyDefinition id="ref-15" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-6"/>
+<index>0</index>
+<label xsi:type="xsd:anyType" xsi:null="1"/>
+<scale>1000</scale>
+<offset>0</offset>
+<dfdtScale>100</dfdtScale>
+<dfdtOffset>0</dfdtOffset>
+</a1:FrequencyDefinition>
+<a3:AnalogDefinitionCollection id="ref-16" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols/GSF.PhasorProtocols">
+<maximumCount>32745</maximumCount>
+<count>0</count>
+</a3:AnalogDefinitionCollection>
+<a3:DigitalDefinitionCollection id="ref-17" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols/GSF.PhasorProtocols">
+<maximumCount>32745</maximumCount>
+<count>0</count>
+</a3:DigitalDefinitionCollection>
+<a1:PhasorDefinition id="ref-18" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-5"/>
+<index>0</index>
+<label id="ref-24">BA1_FV_A</label>
+<scale>0</scale>
+<offset>0</offset>
+<type xsi:type="a4:PhasorType" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/GSF.Units.EE/GSF.Core">Voltage</type>
+<voltageReference xsi:null="1"/>
+</a1:PhasorDefinition>
+<a1:PhasorDefinition id="ref-19" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-5"/>
+<index>1</index>
+<label id="ref-25">BA1_FV_B</label>
+<scale>0</scale>
+<offset>0</offset>
+<type xsi:type="a4:PhasorType" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/GSF.Units.EE/GSF.Core">Voltage</type>
+<voltageReference xsi:null="1"/>
+</a1:PhasorDefinition>
+<a1:PhasorDefinition id="ref-20" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-5"/>
+<index>2</index>
+<label id="ref-26">BA1_FV_C</label>
+<scale>0</scale>
+<offset>0</offset>
+<type xsi:type="a4:PhasorType" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/GSF.Units.EE/GSF.Core">Voltage</type>
+<voltageReference xsi:null="1"/>
+</a1:PhasorDefinition>
+<a1:PhasorDefinition id="ref-21" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-6"/>
+<index>0</index>
+<label id="ref-27">BA2_FV_A</label>
+<scale>0</scale>
+<offset>0</offset>
+<type xsi:type="a4:PhasorType" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/GSF.Units.EE/GSF.Core">Voltage</type>
+<voltageReference xsi:null="1"/>
+</a1:PhasorDefinition>
+<a1:PhasorDefinition id="ref-22" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-6"/>
+<index>1</index>
+<label id="ref-28">BA2_FV_B</label>
+<scale>0</scale>
+<offset>0</offset>
+<type xsi:type="a4:PhasorType" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/GSF.Units.EE/GSF.Core">Voltage</type>
+<voltageReference xsi:null="1"/>
+</a1:PhasorDefinition>
+<a1:PhasorDefinition id="ref-23" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GSF.PhasorProtocols.IEEEC37_118/GSF.PhasorProtocols">
+<parent href="#ref-6"/>
+<index>2</index>
+<label id="ref-29">BA2_FV_C</label>
+<scale>0</scale>
+<offset>0</offset>
+<type xsi:type="a4:PhasorType" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/GSF.Units.EE/GSF.Core">Voltage</type>
+<voltageReference xsi:null="1"/>
+</a1:PhasorDefinition>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

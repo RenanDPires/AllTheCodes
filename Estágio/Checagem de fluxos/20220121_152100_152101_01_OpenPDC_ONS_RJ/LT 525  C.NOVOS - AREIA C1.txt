@@ -1,0 +1,10 @@
+Terminal: LT 525  C.NOVOS - AREIA C1
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    312459.800000       149.714400    313944.900000        29.666350    313138.600000       -90.504370      1136.447000       -19.410390      1157.479000      -139.076300      1153.687000       100.676700        60.006990         0.009613
+1642778461.0000    312353.000000       152.222700    313913.000000        32.160770    313009.300000       -88.018090      1135.039000       -16.985580      1156.834000      -136.593800      1153.736000       103.081600        60.006950        -0.027466

@@ -1,0 +1,10 @@
+Terminal: LT 500  C. PAULISTA - TAUBATE C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    309542.300000       -65.392680    311559.000000        54.412260    311984.700000       174.766600       499.840600       -72.480710       546.546100        54.352350       486.379000       176.497600        60.007910         0.025098
+1642778461.0000    309706.200000       -62.821770    311593.700000        56.931710    312314.700000       177.288300       502.551200       -69.891910       548.023300        56.959680       488.170900       178.919800        60.009010         0.354516

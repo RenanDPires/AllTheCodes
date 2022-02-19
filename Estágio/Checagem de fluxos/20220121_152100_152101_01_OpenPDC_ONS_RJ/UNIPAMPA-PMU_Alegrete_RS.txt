@@ -1,0 +1,10 @@
+Terminal: UNIPAMPA-PMU_Alegrete_RS
+Tensão base: 0,38 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       218.464200       158.380200       220.121300        37.701260       216.252400       -81.832860        60.007360        -0.019913
+1642778461.0000       218.446400       160.891900       220.076400        40.196010       216.161300       -79.317620        60.006610        -0.015335

@@ -1,0 +1,10 @@
+Terminal: BAB1     500  P. AFONSO IV_SE
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    312176.300000       126.741100        60.006840         0.009842
+1642778461.0000    312087.300000       129.497600        60.007900         0.038452

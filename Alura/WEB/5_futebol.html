@@ -1,0 +1,36 @@
+<h1> Usando o prompt (semelhante ao alert) para inserir infos e retornar infos processadas.</h1>
+<script>
+	function pulaLinha(){
+		document.write('<br>');
+		document.write('<br>');
+	}
+	
+	function mostra (texto){
+		pulaLinha();
+		document.write(texto);
+		pulaLinha();
+	}
+	
+	var vitorias= parseInt(prompt('Insira o número de vitórias'));
+	var derrotas= parseInt(prompt('Insira o número de derrotas'));
+	var empates= parseInt(prompt('Insira o número de empates'));
+	
+	function pontuação(){
+		var pontuação= (vitorias * 3) + (derrotas * 0) + (empates * 1);
+		mostra('A pontuação do time até agora é: ' + pontuação);
+	}
+	
+	pontuação()
+	
+	if (pontuação > 28){
+		mostra('O time está excelente. ');
+	}
+	
+	if (pontuação < 10){
+		mostra('O time está mal. ');
+	}
+	
+	if (10 <= pontuação <= 28){
+		mostra('O time está no caminho. ');
+	}
+</script>

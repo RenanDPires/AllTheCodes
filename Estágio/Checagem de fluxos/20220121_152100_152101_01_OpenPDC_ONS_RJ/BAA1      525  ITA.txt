@@ -1,0 +1,10 @@
+Terminal: BAA1      525  ITA
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    312164.500000       152.948700        60.007070         0.005035
+1642778461.0000    312019.500000       155.461500        60.007030        -0.004578

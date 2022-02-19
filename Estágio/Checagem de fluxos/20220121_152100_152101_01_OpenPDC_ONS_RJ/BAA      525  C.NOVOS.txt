@@ -1,0 +1,10 @@
+Terminal: BAA      525  C.NOVOS
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    313225.900000       149.681600        60.007270         0.019913
+1642778461.0000    313104.800000       152.188100        60.006930        -0.020370

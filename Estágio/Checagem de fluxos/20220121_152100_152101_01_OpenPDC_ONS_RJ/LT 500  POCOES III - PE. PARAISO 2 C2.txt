@@ -1,0 +1,10 @@
+Terminal: LT 500  POCOES III - PE. PARAISO 2 C2
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000         0.000000       -38.283950         0.000000       -35.495070         0.000000       -35.917010         0.000000       -94.056040         0.000000       -37.594350         0.000000       174.879100         0.000000         0.000000
+1642778461.0000         0.000000       -35.586640         0.000000       -32.703580         0.000000       -33.150980         0.000000       123.282300         0.000000         7.316356         0.000000      -152.750800         0.000000         0.000000

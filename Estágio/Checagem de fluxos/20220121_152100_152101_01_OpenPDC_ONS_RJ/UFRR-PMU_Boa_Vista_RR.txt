@@ -1,0 +1,10 @@
+Terminal: UFRR-PMU_Boa_Vista_RR
+Tensão base: 0,22 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       124.144400        23.799530       124.395900       -95.852370       125.154100       143.887400        60.083270         0.017166
+1642778461.0000       124.159700        54.396360       124.407600       -65.251030       125.173500       174.489100        60.091590         0.094986

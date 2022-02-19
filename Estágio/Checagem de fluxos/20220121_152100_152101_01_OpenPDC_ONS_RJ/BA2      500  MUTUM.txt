@@ -1,0 +1,10 @@
+Terminal: BA2      500  MUTUM
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    300439.000000        71.201720        60.008750         0.305100
+1642778461.0000    300065.400000        73.746090        60.005320        -0.153351

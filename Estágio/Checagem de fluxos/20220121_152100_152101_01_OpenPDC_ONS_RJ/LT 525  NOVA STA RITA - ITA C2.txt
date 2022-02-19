@@ -1,0 +1,10 @@
+Terminal: LT 525  NOVA STA RITA - ITA C2
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    310724.300000       143.680300    311293.900000        23.348620    308438.800000       -96.585430       498.393400       -38.561710       488.121800      -157.822400       501.170700        81.979750        60.008160         0.036163
+1642778461.0000    310361.600000       146.214700    311242.000000        25.852110    308072.700000       -94.116460       497.481700       -36.262610       487.777400      -155.353000       501.841100        84.307800        60.005270        -0.060196

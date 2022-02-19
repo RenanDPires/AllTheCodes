@@ -1,0 +1,10 @@
+Terminal: BA1      500  BACABEIRA
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    312055.000000       123.529800        60.007210         0.029755
+1642778461.0000    312019.600000       126.291000        60.007170        -0.010757

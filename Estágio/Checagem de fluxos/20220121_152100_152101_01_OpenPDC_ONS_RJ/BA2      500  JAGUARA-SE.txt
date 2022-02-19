@@ -1,0 +1,10 @@
+Terminal: BA2      500  JAGUARA-SE
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    313818.700000      -165.349900        60.008000         0.020000
+1642778461.0000    313818.700000      -162.828900        60.009000         0.030000

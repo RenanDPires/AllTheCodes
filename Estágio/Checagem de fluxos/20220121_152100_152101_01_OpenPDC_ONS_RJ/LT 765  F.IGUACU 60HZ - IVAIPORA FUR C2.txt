@@ -1,0 +1,10 @@
+Terminal: LT 765  F.IGUACU 60HZ - IVAIPORA FUR C2
+Tensão base: 765 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000      2576.953000       151.336500      4858.672000       -66.123820      5403.895000        17.632930       246.235700      -154.276300       242.189400       -34.598060       246.441400        85.962650        60.000000         0.000000
+1642778461.0000      2571.906000       153.669500      4861.190000       -63.693100      5399.061000        20.073330       246.095300      -151.727400       242.171100       -32.150470       246.474700        88.402030        60.000000         0.000000

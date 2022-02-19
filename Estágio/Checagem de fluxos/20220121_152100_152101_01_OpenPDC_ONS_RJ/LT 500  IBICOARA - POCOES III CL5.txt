@@ -1,0 +1,10 @@
+Terminal: LT 500  IBICOARA - POCOES III CL5
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    298768.400000       -16.590150    299790.300000       103.212500    299251.600000      -136.432500       505.159300       167.624700       511.658400       -73.197180       520.001300        47.785480        60.005970        -0.039825          *
+1642778461.0000    298757.100000       -16.207540    299764.000000       103.597500    299223.100000      -136.049500       504.986200       167.976800       511.876300       -72.877880       519.945500        48.028260        60.006580        -0.036392          *

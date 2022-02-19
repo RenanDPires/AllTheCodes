@@ -1,0 +1,10 @@
+Terminal: LT 440  BAGUACU - ILHA SOLTEIRA C1
+Tensão base: 440 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    264314.000000      -179.128400    263163.300000        60.550810    262946.300000       -59.415260       674.374500         6.798135       661.860800      -112.908500       651.512900       127.533800        60.007230        -0.054055
+1642778461.0000    264307.200000      -176.641000    263117.800000        63.038730    262924.300000       -56.920120       674.418800         9.313489       661.657600      -110.398800       651.375100       130.015300        60.008130         0.019816

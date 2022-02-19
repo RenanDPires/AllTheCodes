@@ -1,0 +1,10 @@
+Terminal: UNB-PMU_Brasilia_DF
+Tensão base: 0,38 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       212.109100      -152.922500       214.375000        87.059170       213.440700       -33.067200        60.007470         0.121536
+1642778461.0000       212.108900      -150.299500       214.326100        89.689270       213.303100       -30.482430        60.007080         0.001602

@@ -1,0 +1,10 @@
+Terminal: LT 440  AGUA VERMELHA - ILHA SOLTEIRA C1
+Tensão base: 440 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    260433.000000      -165.446900    260694.200000        74.114570    257749.700000       -45.676710       659.269300      -154.183700       706.260500        80.746580       656.209700       -42.533290        60.008680         0.080109
+1642778461.0000    260405.900000      -162.959500    260619.600000        76.610440    257707.300000       -43.175870       659.332500      -151.688800       706.483800        83.251350       656.318700       -40.012100        60.008000         0.041199

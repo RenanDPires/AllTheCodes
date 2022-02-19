@@ -1,0 +1,10 @@
+Terminal: BA1      500  ARINOS 2
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    304579.600000       105.019800        60.008050         0.159025
+1642778461.0000    304486.800000       107.682500        60.008110         0.032153

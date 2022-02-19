@@ -1,0 +1,10 @@
+Terminal: LT 500  TUCURUI - MARABA C3
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    307920.400000       -94.590520    309094.700000       145.303200    309559.300000        25.215680      1323.250000       -86.202510      1300.885000       154.306200      1324.882000        34.528790        60.008230        -0.004349          *
+1642778461.0000    307872.400000       -94.153500    309062.300000       145.738900    309509.400000        25.650600      1325.286000       -85.821230      1302.503000       154.706400      1326.441000        34.941240        60.007980        -0.002518          *

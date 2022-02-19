@@ -1,0 +1,10 @@
+Terminal: BA2220   500  ACARAU III
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    313439.600000       122.321100        60.006790         0.009613
+1642778461.0000    313421.800000       125.066900        60.007030        -0.003662

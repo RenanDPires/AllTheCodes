@@ -1,0 +1,10 @@
+Terminal: LT 230  JAURU - JUBA C2
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    136115.200000      -116.892900    135620.500000       122.953400    135890.000000         3.237968       251.871600        52.870160       248.372000       -64.158390       258.959000       174.967300        60.007060         0.045776
+1642778461.0000    136117.800000      -114.399500    135619.000000       125.453400    135892.700000         5.735828       251.695000        55.278760       247.892400       -61.704010       258.882000       177.494200        60.006780        -0.029984

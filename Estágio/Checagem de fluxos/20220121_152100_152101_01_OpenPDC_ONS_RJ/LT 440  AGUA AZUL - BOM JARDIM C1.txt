@@ -1,0 +1,10 @@
+Terminal: LT 440  AGUA AZUL - BOM JARDIM C1
+Tensão base: 440 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    255889.600000       160.061300    257894.300000        39.913810    256793.300000       -80.141360       490.845300        -5.299988       524.443200      -126.840200       470.601800       109.184400        60.008100        -0.010071
+1642778461.0000    255972.200000       162.554100    257893.100000        42.408180    256829.500000       -77.635010       488.155400        -2.741777       522.171400      -124.289000       469.186000       111.733400        60.007600         0.051498

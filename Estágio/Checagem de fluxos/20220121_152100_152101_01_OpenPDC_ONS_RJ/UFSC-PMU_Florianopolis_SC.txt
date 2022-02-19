@@ -1,0 +1,10 @@
+Terminal: UFSC-PMU_Florianopolis_SC
+Tensão base: 0,38 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       219.819600       158.140000       222.157400        37.673160       216.824400       -83.241910        60.007470         0.028839
+1642778461.0000       219.801600       160.648400       222.163400        40.170160       216.817300       -80.730960        60.006380        -0.036163

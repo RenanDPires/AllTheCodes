@@ -1,0 +1,10 @@
+Terminal: BAB 500  ITUMBIARA - STSB
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    313452.500000        86.952070        60.008000         0.010000
+1642778461.0000    313422.600000        89.513200        60.008000         0.000000

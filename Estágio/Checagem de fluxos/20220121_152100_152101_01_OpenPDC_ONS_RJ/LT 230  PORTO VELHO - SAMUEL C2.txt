@@ -1,0 +1,10 @@
+Terminal: LT 230  PORTO VELHO - SAMUEL C2
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    137646.700000       -73.533420    137275.200000       166.356500    137223.300000        46.383130       310.425700       -65.950740       299.830500       173.708700       314.055600        53.842540        60.008990         0.018997
+1642778461.0000    137610.100000       -71.135080    137241.900000       168.759900    137199.300000        48.787990       310.214000       -63.497230       299.727900       176.186400       313.799000        56.319560        60.008160        -0.002060

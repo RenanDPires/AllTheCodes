@@ -1,0 +1,10 @@
+Terminal: BAB2     500  BURITIRAMA
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    308603.100000       115.857700        60.007760         0.084686
+1642778461.0000    308536.100000       118.560000        60.008900         0.098877

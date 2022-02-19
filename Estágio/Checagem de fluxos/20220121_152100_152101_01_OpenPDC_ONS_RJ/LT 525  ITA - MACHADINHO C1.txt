@@ -1,0 +1,10 @@
+Terminal: LT 525  ITA - MACHADINHO C1
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    313661.500000       152.943700    314173.800000        32.686950    312754.700000       -87.291260       469.880300       170.299100       516.420000        46.658090       480.534900       -78.326000        60.007450         0.022202
+1642778461.0000    313521.700000       155.461500    314112.300000        35.185930    312582.100000       -84.802240       471.819300       172.901400       516.834400        49.203530       480.987800       -75.604580        60.007340        -0.017624

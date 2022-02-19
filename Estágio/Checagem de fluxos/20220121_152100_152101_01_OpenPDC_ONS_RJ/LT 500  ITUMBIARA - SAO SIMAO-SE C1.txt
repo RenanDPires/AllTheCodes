@@ -1,0 +1,10 @@
+Terminal: LT 500  ITUMBIARA - SAO SIMAO-SE C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    315753.400000       -32.896480    315036.600000        86.971410    316179.200000      -153.035900       295.359900       -15.775300       323.687300       103.644800       310.354100      -132.489200        60.008920         0.257082
+1642778461.0000    315729.400000       -30.333960    314986.800000        89.533370    316151.000000      -150.476200       299.868300       -13.405810       328.034700       105.991900       314.998100      -130.228000        60.008290         0.121709

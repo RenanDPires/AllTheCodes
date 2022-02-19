@@ -1,0 +1,10 @@
+Terminal: BAB1     500  S.DA MESA
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    307930.100000       107.511800        60.008610         0.270359
+1642778461.0000    307885.800000       110.175000        60.008460         0.101274

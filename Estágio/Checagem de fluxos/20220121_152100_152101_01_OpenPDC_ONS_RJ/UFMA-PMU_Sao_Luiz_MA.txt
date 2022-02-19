@@ -1,0 +1,10 @@
+Terminal: UFMA-PMU_Sao_Luiz_MA
+Tensão base: 0,38 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       231.709500       -95.993640       230.992900       143.793500       229.684700        23.906120        60.007800         0.059280
+1642778461.0000       231.690800       -93.201790       230.999400       146.579300       229.685300        26.686090        60.006730        -0.098877

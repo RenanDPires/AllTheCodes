@@ -1,0 +1,10 @@
+Terminal: LT 500  ITUMBIARA - EMBORCACAO C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    315542.200000       -32.870910    315329.200000        86.959900    316102.100000      -153.000700       159.398400       -70.913150       175.459000        45.635360       182.882600       169.747900        60.008720         0.273458
+1642778461.0000    315511.900000       -30.306260    315276.600000        89.527450    316057.500000      -150.438000       159.042000       -68.570590       175.075600        47.967360       182.635100       172.154400        60.008520         0.050713

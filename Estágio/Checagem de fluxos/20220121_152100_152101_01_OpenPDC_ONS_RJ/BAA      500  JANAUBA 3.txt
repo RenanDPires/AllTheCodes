@@ -1,0 +1,10 @@
+Terminal: BAA      500  JANAUBA 3
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    308510.100000      -135.133600        60.007290         0.107346
+1642778461.0000    308417.800000      -132.465200        60.008130         0.051041

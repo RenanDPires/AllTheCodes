@@ -1,0 +1,10 @@
+Terminal: UFT-PMU_Palmas_TO
+Tensão base: 0,38 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       225.224700      -120.964100       224.519000       118.671400       225.422500        -1.353120        60.005990        -0.001373
+1642778461.0000       225.102100      -118.218200       224.395100       121.401700       225.291300         1.382955        60.005990        -0.040054

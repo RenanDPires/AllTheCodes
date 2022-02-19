@@ -1,0 +1,10 @@
+Terminal: BAB 500  ITUMBIARA - RVN
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    303195.500000        86.969260        60.008000         0.000000
+1642778461.0000    303137.700000        89.536120        60.008000         0.000000

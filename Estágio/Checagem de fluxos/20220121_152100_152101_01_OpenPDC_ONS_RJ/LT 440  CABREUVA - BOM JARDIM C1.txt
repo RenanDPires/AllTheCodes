@@ -1,0 +1,10 @@
+Terminal: LT 440  CABREUVA - BOM JARDIM C1
+Tensão base: 440 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000   2553977.000000       160.661300   2555292.000000        40.409580   2544469.000000       -79.721690      1473.538000        -5.456522      1555.411000      -126.701600      1515.745000       111.091900        60.008310        -0.027466
+1642778461.0000   2554620.000000       163.155900   2555545.000000        42.900360   2544947.000000       -77.213180      1466.216000        -2.908047      1548.062000      -124.048900      1510.735000       113.684800        60.007850         0.076447

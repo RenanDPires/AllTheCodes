@@ -1,0 +1,10 @@
+Terminal: BA2      230  ROSANA
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000         0.000000         0.000000    130000.400000        59.615370         0.000000         0.000000        60.007300        -0.059494
+1642778461.0000         0.000000         0.000000    130002.100000        62.087910         0.000000         0.000000        60.008510        -0.008552

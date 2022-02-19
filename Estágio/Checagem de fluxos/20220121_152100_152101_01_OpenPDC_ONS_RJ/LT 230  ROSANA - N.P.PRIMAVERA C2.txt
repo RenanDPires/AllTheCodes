@@ -1,0 +1,10 @@
+Terminal: LT 230  ROSANA - N.P.PRIMAVERA C2
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    130042.200000       179.765900    130149.900000        59.530330    129773.600000       -60.355260        53.230330       -49.473860        59.818180      -168.477500        56.014740        63.345200        60.006810        -0.045614
+1642778461.0000    130052.100000      -177.761200    130151.500000        62.002310    129777.300000       -57.879620        53.461830       -46.609190        60.112540      -165.640400        56.075170        66.379400        60.008330        -0.015456

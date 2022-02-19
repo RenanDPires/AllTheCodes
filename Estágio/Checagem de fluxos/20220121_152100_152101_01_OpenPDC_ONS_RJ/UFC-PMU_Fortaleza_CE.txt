@@ -1,0 +1,10 @@
+Terminal: UFC-PMU_Fortaleza_CE
+Tensão base: 0,38 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       219.553800       -99.359280       220.644100       140.650200       216.442400        20.401990        60.007330         0.024033
+1642778461.0000       219.548700       -96.621480       220.564200       143.381400       216.374800        23.151390        60.006350        -0.037537

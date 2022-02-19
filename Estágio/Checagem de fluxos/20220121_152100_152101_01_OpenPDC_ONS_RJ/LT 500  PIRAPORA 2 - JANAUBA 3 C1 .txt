@@ -1,0 +1,10 @@
+Terminal: LT 500  PIRAPORA 2 - JANAUBA 3 C1 
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    311403.100000      -138.644300    310885.600000       101.564900    309837.200000       -18.200620       481.791500        39.711430       503.978400       -80.043190       509.699900       159.322900        60.007750         0.104599
+1642778461.0000    311308.100000      -135.992700    310784.800000       104.213100    309724.000000       -15.550790       483.717900        42.419090       507.565700       -77.598400       510.926900       161.907000        60.008380         0.059738

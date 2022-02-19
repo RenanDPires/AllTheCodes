@@ -1,0 +1,10 @@
+Terminal: LT 230  PORTO VELHO - C.PORTO VELHO C1
+Tensão base: 230 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    136920.800000       -73.524810    136900.300000       166.397800    137289.100000        46.421700       200.864000       113.797100       198.014500        -7.010845       198.992900      -127.797800        60.008950         0.025406
+1642778461.0000    136893.800000       -71.120270    136870.400000       168.803300    137258.100000        48.826100       200.748200       115.969800       197.678600        -4.854972       199.082200      -125.559000        60.008110         0.005264

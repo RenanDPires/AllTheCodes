@@ -1,0 +1,10 @@
+Terminal: LT 500  SANTA LUZIA II - C.GRANDE III CZ6
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    306806.500000      -120.267100    307477.500000       119.494500    305439.400000        -0.457035       168.881000       -44.203670       175.845100      -166.509400       169.822500        73.247280        60.008720         0.067978          *
+1642778461.0000    306723.300000      -117.563500    307435.400000       122.192200    305319.500000         2.239100       167.912800       -41.111130       175.391300      -163.250900       169.025800        75.520140        60.008290         0.048523

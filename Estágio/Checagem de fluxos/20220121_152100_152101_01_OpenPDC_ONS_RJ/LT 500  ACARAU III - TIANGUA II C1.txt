@@ -1,0 +1,10 @@
+Terminal: LT 500  ACARAU III - TIANGUA II C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    312787.100000      -117.634200    313580.500000       122.338200    312577.000000         2.186741       183.493800       -14.785670       177.534800      -134.181100       181.564600       107.494200        60.006750         0.000458
+1642778461.0000    312756.300000      -114.883000    313557.400000       125.086300    312539.800000         4.930512       183.280400       -12.064860       178.362100      -131.414200       181.354300       110.060500        60.006960        -0.012131

@@ -1,0 +1,10 @@
+Terminal: BAA1      525  IVAIPORA ELS
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    309026.100000       168.022500        60.006990         0.002518
+1642778461.0000    309026.900000       170.515000        60.007610         0.026093

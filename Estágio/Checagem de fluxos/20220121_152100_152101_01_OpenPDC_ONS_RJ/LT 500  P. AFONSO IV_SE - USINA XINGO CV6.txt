@@ -1,0 +1,10 @@
+Terminal: LT 500  P. AFONSO IV_SE - USINA XINGO CV6
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    312051.300000      -112.972800    312263.900000       126.780000    311618.700000         6.839995       317.644300       103.292900       365.202900       -21.916200       328.716100      -147.010800        60.006500         0.014648
+1642778461.0000    311958.100000      -110.208300    312188.900000       129.539000    311505.000000         9.596257       318.367400       105.932000       365.872600       -19.326640       329.361600      -144.459900        60.007490         0.010986

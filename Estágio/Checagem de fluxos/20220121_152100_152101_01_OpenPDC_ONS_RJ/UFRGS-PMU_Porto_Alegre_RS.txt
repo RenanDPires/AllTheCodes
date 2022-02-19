@@ -1,0 +1,10 @@
+Terminal: UFRGS-PMU_Porto_Alegre_RS
+Tensão base: 0,22 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       126.167100       152.500700       125.964000        32.269450       125.993900       -87.907190        60.003970        -0.149231
+1642778461.0000       126.045300       154.966400       125.851700        34.678110       125.784900       -85.476660        60.001900        -0.098190

@@ -1,0 +1,10 @@
+Terminal: LT 525  IVAIPORA ELS - CASCAVEL OEST C1
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    308332.200000       168.481700    309418.100000        47.619740    308109.100000       -72.214940       207.079700       -13.469130       199.936800      -132.188600       202.553600       109.152100        60.007050         0.002060
+1642778461.0000    308327.600000       170.972000    309367.900000        50.113440    308070.300000       -69.718070       206.454200       -10.924780       199.148500      -129.652500       201.696000       111.640400        60.007800         0.035248

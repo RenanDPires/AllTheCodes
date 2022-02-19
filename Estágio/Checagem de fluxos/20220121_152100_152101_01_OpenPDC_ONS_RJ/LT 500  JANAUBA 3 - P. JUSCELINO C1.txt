@@ -1,0 +1,10 @@
+Terminal: LT 500  JANAUBA 3 - P. JUSCELINO C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    308690.300000      -135.142300    308626.400000       104.854600    307687.400000       -14.743370       248.401900       -83.202430       253.887300       154.756700       256.063300        34.646520        60.007720         0.104141
+1642778461.0000    308618.400000      -132.473000    308579.200000       107.519700    307618.200000       -12.079260       248.404900       -80.736600       254.025900       157.143200       256.740100        37.236880        60.008760         0.077133

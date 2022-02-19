@@ -1,0 +1,10 @@
+Terminal: BAB      525  NOVA STA RITA
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    309827.200000       143.633600        60.008240         0.038910
+1642778461.0000    309465.400000       146.168000        60.005580        -0.053101

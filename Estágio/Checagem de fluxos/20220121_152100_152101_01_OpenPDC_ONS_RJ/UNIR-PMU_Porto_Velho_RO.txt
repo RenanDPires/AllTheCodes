@@ -1,0 +1,10 @@
+Terminal: UNIR-PMU_Porto_Velho_RO
+Tensão base: 0,22 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       119.543700       -85.197690       121.919900       154.761400       121.240100        34.407220        60.003390         0.038223
+1642778461.0000       119.384000       -82.787550       121.789300       157.189800       121.155600        36.826610        60.009230        -0.011215

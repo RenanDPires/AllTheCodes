@@ -1,0 +1,10 @@
+Terminal: BAB1     500  POCOES III
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    296482.400000        99.814700        60.006200        -0.026321          *
+1642778461.0000    296447.300000       100.198100        60.006610        -0.024719          *

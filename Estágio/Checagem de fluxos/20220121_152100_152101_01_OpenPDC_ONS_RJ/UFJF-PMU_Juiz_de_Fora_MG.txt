@@ -1,0 +1,10 @@
+Terminal: UFJF-PMU_Juiz_de_Fora_MG
+Tensão base: 0,22 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000       127.881400      -160.317500       128.252100        80.000980       129.318700       -40.075520        60.015060         0.300522
+1642778461.0000       127.914300      -157.768800       128.302800        82.575900       129.409600       -37.521480        60.007610         0.149918

@@ -1,0 +1,10 @@
+Terminal: LT 500  PIRAPORA 2 - ARINOS 2 C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    313116.100000      -138.573900    311715.300000       101.438600    312049.500000       -18.259280       465.876600        59.497160       476.616000       -63.495670       463.496500       177.966300        60.008500         0.114917
+1642778461.0000    313000.700000      -135.925900    311612.000000       104.088200    311947.600000       -15.612690       467.288200        62.115430       477.858500       -60.897860       464.542400      -179.377000        60.007850         0.145272

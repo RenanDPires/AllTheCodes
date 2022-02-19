@@ -1,0 +1,10 @@
+Terminal: BA1      500  TUCURUI
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    136819.700000       -76.116880        60.008950         0.029297
+1642778461.0000    136798.700000       -73.712860        60.007710        -0.006866

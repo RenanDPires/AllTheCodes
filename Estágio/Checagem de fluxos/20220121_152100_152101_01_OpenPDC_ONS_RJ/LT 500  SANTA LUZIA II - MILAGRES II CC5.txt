@@ -1,0 +1,10 @@
+Terminal: LT 500  SANTA LUZIA II - MILAGRES II CC5
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    306114.500000      -120.300800    307473.100000       119.483000    305198.300000        -0.453044        59.167080       -11.730980        81.769100      -118.387600        84.932740       119.498100        60.008260         0.053329          *
+1642778461.0000    306038.300000      -117.594600    307425.300000       122.181500    305091.500000         2.245623        60.155210        -9.258011        81.404320      -115.870200        84.449090       121.668600        60.008190         0.040970

@@ -1,0 +1,10 @@
+Terminal: LT 500  BOM.JES.LAPA II - JANAUBA 3 CL4
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    305732.700000      -130.011900    305943.200000       109.675300    304638.800000       -10.368940       470.771500      -101.053100       456.058900       139.424300       496.133700        18.540330        60.007190         0.096130
+1642778461.0000    305659.700000      -127.330600    305899.800000       112.356100    304560.100000        -7.689530       471.544800       -98.567020       456.740000       141.922200       497.169000        21.095980        60.008480         0.070038

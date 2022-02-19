@@ -1,0 +1,10 @@
+Terminal: LT 500  BATEIAS - ITATIBA C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    307744.300000       144.004300    307662.300000        23.489210    304949.000000       -96.368290      1056.432000       -33.029090      1093.378000      -153.563000      1064.665000        85.247020        60.007830         0.066605
+1642778461.0000    307712.800000       146.506700    307667.500000        26.004310    305014.800000       -93.868930      1057.378000       -30.559060      1092.769000      -151.066000      1066.412000        87.756840        60.007570        -0.002747

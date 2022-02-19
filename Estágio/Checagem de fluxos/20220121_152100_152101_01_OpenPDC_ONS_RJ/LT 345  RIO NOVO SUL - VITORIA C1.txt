@@ -1,0 +1,10 @@
+Terminal: LT 345  RIO NOVO SUL - VITORIA C1
+Tensão base: 345 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    200096.200000       -49.223910    200377.400000        70.506790    200434.800000      -169.484700       344.998800       -40.542270       366.002300        80.809500       363.833700      -162.627000        60.013500         0.246814
+1642778461.0000    199642.200000       -46.763690    200070.500000        73.032270    199837.400000      -166.952100       351.120400       -39.847370       366.121800        82.281110       363.081600      -162.511000        60.010440        -0.143218

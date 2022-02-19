@@ -1,0 +1,41 @@
+<h1> Usando o prompt (semelhante ao alert) para inserir infos e retornar infos processadas.</h1>
+<script>
+	function pulaLinha(){
+		document.write('<br>');
+		document.write('<br>');
+	}
+	
+	function mostra (texto){
+		pulaLinha();
+		document.write(texto);
+		pulaLinha();
+	}
+	
+	var nome= prompt('Insira o seu nome');
+	var peso= parseInt(prompt('Insira o seu peso em kg'));
+	var altura= parseInt(prompt('Insira a sua altura em cm'));
+	
+	
+	function calculoImc(){
+		var imc= peso/((altura/100)*(altura/100));
+		
+		if (imc < 18.5){
+			alert('Abaixo do peso');
+		}
+	
+		if (18.5 <= imc && imc <= 24.9){
+			alert('Peso ideal');
+		}
+	
+		if (imc >= 25){
+			alert('Acima do peso');
+		}
+		
+		mostra('Peso:  ' + peso + 'kg');
+		mostra('Altura:  ' + (altura/100) + 'm');
+		mostra('O seu IMC é: ' + imc);
+	}
+	
+	calculoImc();
+	
+</script>

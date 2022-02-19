@@ -1,0 +1,10 @@
+Terminal: BA2      500  COLINAS
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VB_mod_(V)     VB_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    309086.400000       123.423400        60.007570         0.044403
+1642778461.0000    308946.100000       126.152800        60.007520         0.035934

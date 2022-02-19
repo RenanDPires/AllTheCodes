@@ -1,0 +1,10 @@
+Terminal: LT 500  C. PAULISTA - ANGRA FUR C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    309910.000000       -65.391070    311266.800000        54.420310    312265.800000       174.760600       972.073800       125.903100      1010.305000      -112.938400       977.615200         8.705276        60.008520         0.142238
+1642778461.0000    310064.300000       -62.820580    311292.800000        56.941320    312595.600000       177.285600       977.656800       128.226300      1012.299000      -110.480700       979.194900        10.926530        60.008910         0.344747

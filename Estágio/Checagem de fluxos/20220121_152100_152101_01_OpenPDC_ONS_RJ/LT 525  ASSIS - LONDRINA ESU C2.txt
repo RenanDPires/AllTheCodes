@@ -1,0 +1,10 @@
+Terminal: LT 525  ASSIS - LONDRINA ESU C2
+Tensão base: 525 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    310268.400000       175.141500    309950.300000        54.855000    308052.500000       -64.960510       823.490500      -174.976100       830.053500        64.732090       831.937900       -54.669900        60.008310         0.037079
+1642778461.0000    310276.600000       177.631200    309923.500000        57.342830    308027.300000       -62.462200       823.291100      -172.494500       829.992700        67.176030       832.383900       -52.197680        60.008110         0.043716

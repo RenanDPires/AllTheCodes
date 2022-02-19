@@ -1,0 +1,10 @@
+Terminal: LT 500  SOL DO SERTAO - BOM.JES.LAPA II C1
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    309257.400000      -126.083600    309578.100000       113.646800    308563.900000        -6.349095       734.479700      -120.125300       753.389000       119.185800       735.452200        -0.973453        60.007350         0.095901
+1642778461.0000    309196.400000      -123.391300    309535.600000       116.339600    308490.900000        -3.661109       738.122700      -117.476700       756.167400       121.926700       738.331400         1.693671        60.008750         0.109406

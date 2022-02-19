@@ -1,0 +1,10 @@
+Terminal: LT 500  S.DA MESA - SAMAMBAIA C2
+Tensão base: 500 kV
+SOC inicial: 1642778460
+SOC final: 1642778461
+Taxa: 1 fasores/s
+Total de frames faltantes: - 
+
+Tempo_(SOC)           VA_mod_(V)     VA_ang_(graus)     VB_mod_(V)     VB_ang_(graus)     VC_mod_(V)     VC_ang_(graus)     IA_mod_(A)     IA_ang_(graus)     IB_mod_(A)     IB_ang_(graus)     IC_mod_(A)     IC_ang_(graus)     Frequência        Delta_Freq     Faltante
+1642778460.0000    308023.300000       -12.598320    307753.700000       107.496600    307286.300000      -132.561300       926.486900        -5.221234       953.481700       113.118200       950.878700      -124.922100        60.008690         0.293403
+1642778461.0000    307995.000000        -9.942223    307717.500000       110.160700    307209.800000      -129.901100       928.640100        -2.495557       957.013700       115.799000       952.887900      -122.358300        60.008440         0.123705
